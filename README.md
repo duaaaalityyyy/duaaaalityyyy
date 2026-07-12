@@ -5,6 +5,6 @@
 
 
 ```csharp
-github.com/mango-blossoms
-tg   $  @eighty
+github.com/duaaaalityyyy
+discord @ dualworthy
 ```
